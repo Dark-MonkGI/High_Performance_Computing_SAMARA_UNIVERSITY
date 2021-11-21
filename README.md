@@ -21,8 +21,7 @@ HPC-2021
 ##  **Техническое обеспечение** 
 -  Процессор: Intel(R) Xeon(R) CPU @ 2.30GHz 
 -  Графический процессор: b'Tesla K80' 
--  Google Colaboratory
-
+-  Google Colaboratory<br/>
    compute capability: 3.7 
 ##  **Описание** 
 
