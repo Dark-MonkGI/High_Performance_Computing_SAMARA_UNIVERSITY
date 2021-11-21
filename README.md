@@ -21,7 +21,7 @@ HPC-2021
 ##  **Техническое обеспечение** 
 -  Процессор: `Intel(R) Xeon(R) CPU @ 2.30GHz`
 -  Графический процессор: `b'Tesla K80'` 
--  Google Colaboratory<br/>
+-  Google Colaboratory <br/>
    compute capability: 3.7 
 ##  **Описание реализации** 
 
@@ -32,8 +32,12 @@ HPC-2021
 - 700 х 700 
 - 1100 х 1100 <br/> 
 
-Для тестирования программы были использованы матрицы A и B с размерностями 320×320 и 640×320, соответственно. Среднее время выполнения программы составило 61.416 мсек при производительности 2.13 GFlop/s.
-Язык Python 3.7 с использованием библиотеки Numba. 
+Данная лабораторная работа выволнялась на языке Python 3.7, с использованием библиотеки Numba.<br/>
+> Overview <br/>
+> Numba supports CUDA GPU programming by directly compiling a restricted subset of Python code into CUDA kernels and device functions following the CUDA execution model. Kernels
+> written in Numba appear to have direct access to NumPy arrays. NumPy arrays are transferred between the CPU and the GPU automatically.
+
+
 
 В программе реализованы четыре функции:  
 +  ```CPU_matmul_dot```  - функция перемножение матриц на CPU с помощью встроенной функции  ```np.dot()```  в библиотеке Numpy. 
