@@ -3,9 +3,7 @@ Samara University <br/>
 HPC-2021
 ## Лабораторные работы по курсу "Высокопроизводительные вычисления".
 
-## 0.[MatrixMul][1]
-
-[1]: (https://github.com/Dark-MonkGI/Laboratory-work/blob/2acabac21aadec821bd6a56c421fa41be8692b89/0.%20MatrixMul/HPC_matrix_multi_GPU_ILia_Gr.ipynb)
+## 0.[MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/blob/2acabac21aadec821bd6a56c421fa41be8692b89/0.%20MatrixMul/HPC_matrix_multi_GPU_ILia_Gr.ipynb)
 
 **Задача:** Реализовать алгоритм перемножения матриц с применением технологии CUDA. <br/>
 Реализация должна содержать 2 функции перемножения матриц: на CPU и на GPU
