@@ -1,7 +1,7 @@
 # CUDA_Laboratory-work 
 ![logo](https://ssau.ru/pagefiles/of_docs/Firm%20blocks_left-gorizont_naimenovanie_Rus.png)
 
-Samara University <br/>
+[Samara University](https://ssau.ru/) <br/>
 HPC-2021
 ## Лабораторные работы по курсу "Высокопроизводительные вычисления".
 
