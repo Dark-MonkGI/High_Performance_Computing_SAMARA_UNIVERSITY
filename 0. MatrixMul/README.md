@@ -1,7 +1,7 @@
-# CUDA_Laboratory-work 
+
+## Лабораторная работа по курсу "Высокопроизводительные вычисления".
 Samara University <br/>
 HPC-2021
-## Лабораторные работы по курсу "Высокопроизводительные вычисления".
 
 ## 0.[MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/blob/2acabac21aadec821bd6a56c421fa41be8692b89/0.%20MatrixMul/HPC_matrix_multi_GPU_ILia_Gr.ipynb)
 
