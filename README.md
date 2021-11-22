@@ -6,7 +6,7 @@ HPC-2021
 ## Лабораторные работы по курсу "Высокопроизводительные вычисления".
 
 ### 1. 0.[MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/blob/2acabac21aadec821bd6a56c421fa41be8692b89/0.%20MatrixMul/HPC_matrix_multi_GPU_ILia_Gr.ipynb)
-### 2. 0.[Matrixd]()
+### 2. 1.[VectorSum]()
 
 
 
