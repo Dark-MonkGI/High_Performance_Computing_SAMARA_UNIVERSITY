@@ -5,7 +5,7 @@ HPC-2021
 
 ## 2. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/blob/51c1e0001ae9fffcd929a43fc43212b06fd1a336/2.%20Pi-value%20Calculation/Pi-value%20Calculation_ILia.ipynb)
 
-**Задача:**  [task sheet](https://github.com/Dark-MonkGI/Laboratory-work/blob/bafbfd483324ca251402b1dfc29284cf6f80fd7f/2.%20Pi-value%20Calculation/pi_monte_carlo.pdf)  Учитывая количество точек N, сгенерируйте случайное распределение в области (0, 0) - (1, 1) и вычислите число π
+**Задача:**  ([task sheet](https://github.com/Dark-MonkGI/Laboratory-work/blob/bafbfd483324ca251402b1dfc29284cf6f80fd7f/2.%20Pi-value%20Calculation/pi_monte_carlo.pdf))  Учитывая количество точек N, сгенерируйте случайное распределение в области (0, 0) - (1, 1) и вычислите число π
 используя CPU и GPU. Полученные значения π должны быть распечатаны вместе со временем выполнения.<br/>
 > **Task definition** <br/>
 > Given the number of points N , generate a random distribution in (0, 0) − (1, 1) area and calculate the π number
