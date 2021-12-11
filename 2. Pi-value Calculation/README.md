@@ -26,7 +26,7 @@ HPC-2021
 
 Наглядное представление:<br/>
 ![logo](https://habrastorage.org/getpro/habr/post_images/011/ef8/989/011ef8989001df204b33142805371d9b.gif)
-
+> Monte Carlo method applied to approximating the value of π.
 
 
 
