@@ -3,7 +3,7 @@
 Samara University <br/>
 HPC-2021
 
-## 2. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/blob/8da7243a5a189b13cc9937f302980dcf433fccf5/1.%20VectorSum/HPC_Vector_GPU_ILia.ipynb)
+## 2. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/blob/51c1e0001ae9fffcd929a43fc43212b06fd1a336/2.%20Pi-value%20Calculation/Pi-value%20Calculation_ILia.ipynb)
 
 **Задача:**  Учитывая количество точек N, сгенерируйте случайное распределение в области (0, 0) - (1, 1) и вычислите число π
 используя CPU и GPU. Полученные значения π должны быть распечатаны вместе со временем выполнения.<br/>
