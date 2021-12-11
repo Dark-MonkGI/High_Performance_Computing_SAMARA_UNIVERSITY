@@ -10,6 +10,7 @@ HPC-2021
 > **Task definition** <br/>
 > Given the number of points N , generate a random distribution in (0, 0) − (1, 1) area and calculate the π number
 >using CPU and GPU. The resulting π values should be printed out along with the execution times.<br/>
+
 Отчет о проделанной лабораторной работе - это git-репозиторий с исходным кодом
 **Язык:**  C++ или Python <br/> 
 
