@@ -12,7 +12,7 @@ HPC-2021
 >using CPU and GPU. The resulting π values should be printed out along with the execution times.<br/>
 
 **Входные данные:** <br/>
-- N - количество баллов;
+- N - количество баллов;<br/>
 **Выходные данные:** <br/>
 - время выполнения программ GPU и CPU;<br/>
 - Значения π, рассчитанные программами GPU и CPU (результаты могут отличаться);<br/>
