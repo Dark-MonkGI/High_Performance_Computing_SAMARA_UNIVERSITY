@@ -3,7 +3,7 @@
 Samara University <br/>
 HPC-2021
 
-## 1.[Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/blob/8da7243a5a189b13cc9937f302980dcf433fccf5/1.%20VectorSum/HPC_Vector_GPU_ILia.ipynb)
+## 2. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/blob/8da7243a5a189b13cc9937f302980dcf433fccf5/1.%20VectorSum/HPC_Vector_GPU_ILia.ipynb)
 
 **Задача:** Реализовать алгоритм сложения элементов вектора с применением технологии CUDA. <br/>
 - Входные данные: Вектор размером от: 1 000..1 000 000 значений. <br/>
