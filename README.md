@@ -7,7 +7,7 @@ HPC-2021
 
 ### 1. [MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/0.%20MatrixMul)
 ### 2. [VectorSum](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/1.%20VectorSum)
-
+### 3. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/2.%20Pi-value%20Calculation)
 
 
 
