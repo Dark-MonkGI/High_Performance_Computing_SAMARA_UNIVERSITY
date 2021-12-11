@@ -4,6 +4,8 @@
 [Samara University](https://ssau.ru/) <br/>
 HPC-2021
 ## Лабораторные работы по курсу "Высокопроизводительные вычисления".
+### Студент: Griaznov Ilia.
+### Группа: "6131-010402D".
 
 ### 1. [MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/0.%20MatrixMul)
 ### 2. [VectorSum](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/1.%20VectorSum)
