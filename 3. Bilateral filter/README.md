@@ -16,7 +16,7 @@ HPC-2021
 
 **Входные данные:** <br/>
 - Входное изображение в градациях серого в формате BMP, σ values;<br/>
-
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/original_image_batman.bmp)
 **Выходные данные:** <br/>
 - Время обработки изображения с помощью процессора;<br/>
 - Время обработки изображения с использованием графического процессора;<br/>
@@ -30,18 +30,18 @@ HPC-2021
 -  Графический процессор: `b'Tesla K80'` <br/>
 -  Google Colaboratory <br/>
    compute capability: 3.7 <br/>
-
-![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/original_image_batman.bmp)
-
+   
+###  **Описание реализации** 
+Что такое двусторонняя фильтрация?
+> «Билатеральный фильтр — это нелинейный сглаживающий фильтр для изображений, сохраняющий границы и уменьшающий шум. Он заменяет интенсивность каждого пикселя средневзвешенным  значением интенсивности ближайших пикселей». <br/>
 
 
 ![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_CPU.bmp)
 ![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_GPU.bmp)
-Что такое двусторонняя фильтрация?
 
-Согласно Википедии -
 
-«Билатеральный фильтр — это нелинейный сглаживающий фильтр для изображений, сохраняющий границы и уменьшающий шум. Он заменяет интенсивность каждого пикселя средневзвешенным значением интенсивности ближайших пикселей».
+
+
 
 
 
