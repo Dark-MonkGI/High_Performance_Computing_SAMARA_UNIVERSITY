@@ -43,9 +43,19 @@ HPC-2021
  2. Каждый сосед "взвешивается" с помощью пространственного компонента, который смазывает удаленные пиксели и компонента диапазона, который смазывает пиксели с разной интенсивностью. <br/>
  3. Комбинация обоих компонентов гарантирует, что в конечный результат будут вносить вклад только близкие похожие пиксели. <br/>
 
+##  **Результаты вычислений** <br/>
+Время выполнения: <br/>
+№ |Device|Time(second)| 
+:-----:|:-----:|:-----:|
+0 | CPU |	0.44 |
+1 | GPU |	0.21 |
+<br/>
 
-![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_CPU.bmp)
-![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_GPU.bmp)
+Изображение полученное при вычислении на CPU: <br/>
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_CPU.bmp) <br/>
+
+Изображение полученное при вычислении на GPU: <br/>
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_GPU.bmp) <br/>
 
 
 
