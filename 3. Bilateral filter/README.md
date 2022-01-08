@@ -4,11 +4,12 @@ Samara University <br/>
 HPC-2021
 
 
-![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/original_image_batman.bmp)
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/original_image_batman.bmp)
 
 
 
-![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/bilateral_image_on_CPU.bmp)
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_CPU.bmp)
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/bilateral_image_on_GPU.bmp)
 Что такое двусторонняя фильтрация?
 
 Согласно Википедии -
