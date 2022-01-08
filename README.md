@@ -7,10 +7,10 @@ HPC-2021
 ### Студент: Griaznov Ilia
 ### Группа: "6131-010402D"
 
-### 1. [MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/0.%20MatrixMul)
-### 2. [VectorSum](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/1.%20VectorSum)
-### 3. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/2.%20Pi-value%20Calculation)
-### 4. [Bilateral filter](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/3.%20Bilateral%20filter)
+### 0. [MatrixMul](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/0.%20MatrixMul)
+### 1. [VectorSum](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/1.%20VectorSum)
+### 2. [Pi-value Calculation](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/2.%20Pi-value%20Calculation)
+### 3. [Bilateral filter](https://github.com/Dark-MonkGI/Laboratory-work/tree/main/3.%20Bilateral%20filter)
 
 
 
