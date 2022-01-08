@@ -16,7 +16,7 @@ HPC-2021
 
 **Входные данные:** <br/>
 - Входное изображение в градациях серого в формате BMP, σ values;<br/>
-![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/original_image_batman.bmp)
+![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/original_image_batman.bmp) <br/>
 **Выходные данные:** <br/>
 - Время обработки изображения с помощью процессора;<br/>
 - Время обработки изображения с использованием графического процессора;<br/>
