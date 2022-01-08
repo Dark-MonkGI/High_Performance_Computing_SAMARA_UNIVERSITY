@@ -1,8 +1,37 @@
 ## Лабораторная работа по курсу "Высокопроизводительные вычисления".<br/>
-### *билитеральный фильтр* <br/>
+### *Расчет числа "Пи", с применением технологии CUDA.* <br/>
 Samara University <br/>
 HPC-2021
 
+## 3. [Bilateral filter](https://github.com/Dark-MonkGI/Laboratory-work/blob/main/3.%20Bilateral%20filter/Bilateral%20filter_ILia.ipynb)
+
+**Задача:**  ([task sheet](https://github.com/Dark-MonkGI/Laboratory-work/blob/main/3.%20Bilateral%20filter/Methodical%20instructions%20bilateral.pdf))  
+Учитывая размер изображения M × N, реализуйте и примените версию CUDA 9-точечного двустороннего фильтра и сохраните
+результат в выходное изображение. Пропущенные значения в граничных строках и столбцах необходимо брать из ближайших пикселей.<br/>
+
+> **Task definition** <br/>
+> Given the image of size M×N, implement and apply a CUDA version of 9-point bilateral filter and store the
+> result to output image. Missing values for edge rows and columns are to be taken from nearest pixels. CUDA implementation must make use of texture memory.<br/>
+
+
+
+
+
+**Входные данные:** <br/>
+- N - количество баллов;<br/>
+
+**Выходные данные:** <br/>
+- время выполнения программ GPU и CPU;<br/>
+- Значения π, рассчитанные программами GPU и CPU (результаты могут отличаться);<br/>
+
+Отчет о проделанной лабораторной работе - это git-репозиторий с исходным кодом.<br/>
+**Язык:**  C++ или Python <br/> 
+
+###  **Техническое обеспечение** <br/>
+-  Процессор: `Intel(R) Xeon(R) CPU @ 2.30GHz`<br/>
+-  Графический процессор: `b'Tesla K80'` <br/>
+-  Google Colaboratory <br/>
+   compute capability: 3.7 <br/>
 
 ![logo](https://raw.githubusercontent.com/Dark-MonkGI/Laboratory-work/main/3.%20Bilateral%20filter/image/original_image_batman.bmp)
 
