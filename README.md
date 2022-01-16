@@ -1,4 +1,4 @@
-# CUDA_Laboratory-work 
+# CUDA-Laboratory-work 
 ![logo](https://ssau.ru/pagefiles/of_docs/Firm%20blocks_left-gorizont_naimenovanie_Rus.png)
 
 [Samara University](https://ssau.ru/) <br/>
